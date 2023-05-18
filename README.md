@@ -10,3 +10,10 @@
 ![](https://img.shields.io/github/languages/top/ik-workshop/open-source-issue-blueprint?color=green&logo=markdown&logoColor=blue)
 
 ---
+
+## Create
+
+[**Create a repository using this template →**][template.generate]
+
+<!-- resources -->
+[template.generate]: https://github.com/ik-workshop/open-source-issue-blueprint/generate
